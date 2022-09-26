@@ -1,5 +1,5 @@
 <?php
-namespace Gmacazhar\MergePdfFiles;
+namespace MergePdfFiles;
 require_once("tcpdf/tcpdf.php");
 require_once("fpdi/fpdi.php");
 
