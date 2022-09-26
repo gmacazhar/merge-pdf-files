@@ -3,7 +3,7 @@
     "description": "Merge pdf for testing only.",
     "autoload": {
         "psr-4": {
-            "gmacazhar\\MergePdfFiles\\": "src/"
+            "Gmacazhar\\MergePdfFiles\\": "src/"
         }
     },
     "minimum-stability": "dev",
