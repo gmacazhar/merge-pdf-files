@@ -2,6 +2,8 @@
 require_once("tcpdf/tcpdf.php");
 require_once("fpdi/fpdi.php");
 
+namespace MergePdfFiles;
+
 class MergePdf{
 	const DESTINATION__INLINE = "I";
 	const DESTINATION__DOWNLOAD = "D";
